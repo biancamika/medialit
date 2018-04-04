@@ -40,7 +40,11 @@ blockquote {
 }
 
 span {
-font-weight:bold;  
+font-weight:bold;
+}
+
+.source {
+font-style:italic;
 }
 
 .section-heading {
